@@ -7,7 +7,7 @@ Project Website
         <title>Challenge: Colorful creature</title>
        <style>
            body {background-color:rgb(98, 108, 138);}
-           h1 {color:white;}
+           h1 {color:red;}
            p {color:rgb(250, 250, 250);}
        </style> 
         
